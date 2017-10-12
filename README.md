@@ -6,3 +6,4 @@
 3、AVLTree --- 平衡二叉树
 4、sqlist --- 顺序表
 5、LinkList --- 单向链表
+6、Slinklist --- 静态链表
