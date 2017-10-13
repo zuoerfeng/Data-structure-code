@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/10/13 17:02:20。
+     1>项目“C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Dulinklist\Dulinklist.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt dulinklist.c main.c
+         main.c
+     1>c:\users\lz\desktop\data structure code\data-structure-code\dulinklist\dulinklist\main.c(17): warning C4098: “main”:“void”函数返回值
+         dulinklist.c
+     1>c:\users\lz\desktop\data structure code\data-structure-code\dulinklist\dulinklist\dulinklist.c(21): warning C4305: “=”: 从“int”到“ElemType”截断
+     1>c:\users\lz\desktop\data structure code\data-structure-code\dulinklist\dulinklist\dulinklist.c(93): warning C4098: “dulinkListInsert”:“void”函数返回值
+     1>c:\users\lz\desktop\data structure code\data-structure-code\dulinklist\dulinklist\dulinklist.c(118): warning C4098: “dulinkListDelete”:“void”函数返回值
+         正在生成代码...
+       Link:
+         D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Debug\Dulinklist.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Debug\Dulinklist.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Debug\Dulinklist.lib" /MACHINE:X86 Debug\dulinklist.obj
+         Debug\main.obj
+         Dulinklist.vcxproj -> C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Debug\Dulinklist.exe
+     1>已完成生成项目“C:\Users\lz\Desktop\Data structure code\Data-structure-code\Dulinklist\Dulinklist\Dulinklist.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.35

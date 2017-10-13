@@ -7,3 +7,4 @@
 4、sqlist --- 顺序表
 5、LinkList --- 单向链表
 6、Slinklist --- 静态链表
+7、Dulinklist --- 双向链表
