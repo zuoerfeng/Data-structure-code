@@ -9,3 +9,4 @@
 6、Slinklist --- 静态链表
 7、Dulinklist --- 双向链表
 8、Polynomial_list --- 一元多项式链表实现
+9、Sqstack --- 顺序栈
