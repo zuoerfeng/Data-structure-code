@@ -13,3 +13,4 @@
 10、Liststace --- 链表栈
 11、LinkQueue --- 队列的链表实现（单链表）
 12、SqQueue --- 队列的顺序存储实现（循环队列）
+13、HeapString --- 串的堆分配存储表示
