@@ -74,6 +74,19 @@ void PostOrder(BTree *tree)
 	printf("%d ", tree->data);
 }
 
+//释放二叉树的内存空间，将二叉树置空
+void BTreeSetNull(BTree *tree)
+{
+	if (tree == NULL)
+	{
+		return;
+	}
+	BTreeSetNull(tree->left);
+	BTreeSetNull(tree->right);
+	free(tree);
+}
+
+
 int main()
 {
 	//二叉树构建
@@ -92,6 +105,9 @@ int main()
 	printf("Post order:\n");
 	PostOrder(tree);
 	printf("\n");
+
+	//释放二叉树内存空间
+	BTreeSetNull(tree);
 
 	system("pause");
 	return 0;
