@@ -16,3 +16,5 @@
 13、HeapString --- 串的堆分配存储表示
 14、BTree --- 二叉树的构造
 15、Traverse_BTree --- 二叉树的遍历
+16、Hash --- hash表的查询
+17、InsertionSort --- 直接插入法排序
