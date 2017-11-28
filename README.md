@@ -18,3 +18,4 @@
 15、Traverse_BTree --- 二叉树的遍历
 16、Hash --- hash表的查询
 17、InsertionSort --- 直接插入法排序
+18、InsertionSortDichotomy ---二分插入排序
