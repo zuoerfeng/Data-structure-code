@@ -22,3 +22,4 @@
 19、ShellSort --- 希尔插入排序
 20、BubbleSort ---冒泡排序
 21、CocktailSort ---双向冒泡排序
+22、QuickSort --- 快速排序
