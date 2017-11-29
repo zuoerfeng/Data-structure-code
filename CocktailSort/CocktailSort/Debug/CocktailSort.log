@@ -1,10 +1,9 @@
-﻿生成启动时间为 2017/11/29 14:56:09。
+﻿生成启动时间为 2017/11/29 16:45:07。
      1>项目“C:\Users\lz\Desktop\Data structure code\Data-structure-code\CocktailSort\CocktailSort\CocktailSort.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt CocktailSort.c
          CocktailSort.c
-     1>c:\users\lz\desktop\data structure code\data-structure-code\cocktailsort\cocktailsort\cocktailsort.c(57): warning C4013: “printf”未定义；假设外部返回 int
-     1>c:\users\lz\desktop\data structure code\data-structure-code\cocktailsort\cocktailsort\cocktailsort.c(64): warning C4013: “system”未定义；假设外部返回 int
+     1>c:\users\lz\desktop\data structure code\data-structure-code\cocktailsort\cocktailsort\cocktailsort.c(65): warning C4013: “system”未定义；假设外部返回 int
        Link:
          D:\2_tmp\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\CocktailSort\Debug\CocktailSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\CocktailSort\Debug\CocktailSort.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lz\Desktop\Data structure code\Data-structure-code\CocktailSort\Debug\CocktailSort.lib" /MACHINE:X86 Debug\CocktailSort.obj
          CocktailSort.vcxproj -> C:\Users\lz\Desktop\Data structure code\Data-structure-code\CocktailSort\Debug\CocktailSort.exe
@@ -12,4 +11,4 @@
 
 生成成功。
 
-已用时间 00:00:00.69
+已用时间 00:00:00.31
