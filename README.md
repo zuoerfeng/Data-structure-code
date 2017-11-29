@@ -24,3 +24,4 @@
 21、CocktailSort ---双向冒泡排序
 22、QuickSort --- 快速排序
 23、SelectionSort --- 简单选择排序
+24、HeapSort --- 堆排序
