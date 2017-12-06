@@ -61,7 +61,7 @@ void Merge(int A[], int left, int mid, int right)// 合并两个已排好序的数组A[left
 	}
 }
 
-// 递归实现的归并排序(自顶向下)----先8个，再4个，在2个
+// 递归实现的归并排序(自顶向下)
 void MergeSortRecursion(int A[], int left, int right)   
 {
 	if (left == right)    // 当待排序的序列长度为1时，递归开始回溯，进行merge操作
@@ -72,7 +72,7 @@ void MergeSortRecursion(int A[], int left, int right)
 	Merge(A, left, mid, right);
 }
 
-// 非递归(迭代)实现的归并排序(自底向上)（每两个合并，每4个合并）
+// 非递归(迭代)实现的归并排序(自底向上)
 void MergeSortIteration(int A[], int len)    
 {
 	int left, mid, right;// 子数组索引,前一个为A[left...mid]，后一个子数组为A[mid+1...right]
